@@ -1,0 +1,13 @@
+@font-face {
+	font-family: "pri";
+	src: url("./assets/fonts/pri.woff2") format("woff2");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "gro";
+	src: url("./assets/fonts/gro.woff2") format("woff2");
+	font-style: normal;
+	font-weight: normal;
+}
